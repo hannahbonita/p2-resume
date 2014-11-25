@@ -1,0 +1,33 @@
+/* Your Website Styles */
+body {
+	background: url("../img/skulls.jpg");
+	font-family: 'Poiret One', cursive;
+}
+
+p {
+	color: #2A1D0E;
+
+}
+
+h1{
+	color: #fff;
+	font-family: 'Poiret One', cursive;
+}
+
+.container {
+	margin-top: 20px;
+}
+
+/* Show Grid */
+.showgrid {
+
+}
+
+.name {
+	background: url("../img/background.jpg");
+}
+
+.name h1{
+	margin-top: 0;
+	padding: 20px 0;
+}
